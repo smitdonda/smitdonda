@@ -1,5 +1,5 @@
 <h1 align="center">Smit Donda</h1>
-<p align="center">Full Stack Developer &nbsp;·&nbsp; MERN / Next.js &nbsp;·&nbsp; Bhavnagar, Gujarat, India</p>
+<p align="center">Full Stack Developer &nbsp;·&nbsp; MERN / Next.js &nbsp;·&nbsp; Surat, Gujarat, India</p>
 
 <p align="center">
   <a href="https://smitdonda.netlify.app"><img src="https://img.shields.io/badge/Portfolio-141F33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
