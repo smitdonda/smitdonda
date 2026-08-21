@@ -62,20 +62,5 @@ Currently at **Techmonk**, working on a multi-tenant SaaS platform for e-commerc
 
 ---
 
-### Featured Projects
-
-**[Bill Book — GST billing & invoicing](https://inventory-billing-01.vercel.app)** &nbsp;·&nbsp; [client](https://github.com/smitdonda/Inventory-Billing-Client) &nbsp;·&nbsp; [server](https://github.com/smitdonda/Inventory-Billing-Server)<br>
-*React · Node.js · Express · MongoDB · server-side PDF generation*<br>
-Invoicing system with automated GST calculation across multiple slab rates and server-side PDF invoice generation. Customers, line items and invoice history are modelled so edits, deletions and regenerated invoices stay auditable.
-
-**[Products Hub](https://github.com/smitdonda/Products-Hub-Client)** &nbsp;·&nbsp; [server](https://github.com/smitdonda/Products-Hub-Server)<br>
-*React · Node.js · MongoDB*<br>
-E-commerce app with authentication, product categories, cart and Google Pay checkout.
-
-**[Disney+ Hotstar clone](https://github.com/smitdonda/Disney-Hotstar-Client)** &nbsp;·&nbsp; [server](https://github.com/smitdonda/Disney-Hotstar-Server_1)<br>
-*React · Node.js · MongoDB*<br>
-Streaming UI with subscriptions, trailers, search and a personal watchlist.
-
----
 
 <p align="center"><sub><a href="mailto:smitdonda7575@gmail.com">smitdonda7575@gmail.com</a></sub></p>
