@@ -21,7 +21,6 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer with 4+ years of professional experience
 - ⚛️ Specialized in React.js, Next.js, Node.js, and MongoDB
 - 🔧 Experienced in building REST APIs and scalable backend services
 - 📊 Work with dashboards, analytics, customer data, and automation platforms
