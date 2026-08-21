@@ -7,20 +7,6 @@
   <a href="mailto:smitdonda7575@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-### About
-
-Full stack developer with 4 years of experience shipping production web applications on the MERN stack and Next.js. I build features end to end — MongoDB data modelling and query optimisation, REST API design and validation, third-party API integration, and React front ends.
-
-Currently at **Techmonk**, working on a multi-tenant SaaS platform for e-commerce automation: campaign execution, customer segmentation, product and order management, and WhatsApp template messaging through the Meta Cloud API and Gupshup.
-
-- Cut API response times ~60% by reworking MongoDB queries and indexes
-- Rebuilt the platform dashboards so they report live data in real time
-- Hardened the REST layer with request validation, rate limiting and a tightened CORS policy
-
----
-
 ### Tech
 
 **Frontend**
