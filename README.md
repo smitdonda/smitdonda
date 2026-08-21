@@ -64,26 +64,17 @@ Currently at **Techmonk**, working on a multi-tenant SaaS platform for e-commerc
 
 ### Featured Projects
 
-**[Bill Book — GST billing & invoicing](https://inventory-billing-01.vercel.app)** &nbsp;·&nbsp; [client](https://github.com/smitdonda/Inventory-Billing-Client) &nbsp;·&nbsp; [server](https://github.com/smitdonda/Inventory-Billing-Server)
-React · Node.js · Express · MongoDB · server-side PDF generation
+**[Bill Book — GST billing & invoicing](https://inventory-billing-01.vercel.app)** &nbsp;·&nbsp; [client](https://github.com/smitdonda/Inventory-Billing-Client) &nbsp;·&nbsp; [server](https://github.com/smitdonda/Inventory-Billing-Server)<br>
+*React · Node.js · Express · MongoDB · server-side PDF generation*<br>
 Invoicing system with automated GST calculation across multiple slab rates and server-side PDF invoice generation. Customers, line items and invoice history are modelled so edits, deletions and regenerated invoices stay auditable.
 
-**[Products Hub](https://github.com/smitdonda/Products-Hub-Client)** &nbsp;·&nbsp; [server](https://github.com/smitdonda/Products-Hub-Server)
-React · Node.js · MongoDB
+**[Products Hub](https://github.com/smitdonda/Products-Hub-Client)** &nbsp;·&nbsp; [server](https://github.com/smitdonda/Products-Hub-Server)<br>
+*React · Node.js · MongoDB*<br>
 E-commerce app with authentication, product categories, cart and Google Pay checkout.
 
-**[Disney+ Hotstar clone](https://github.com/smitdonda/Disney-Hotstar-Client)** &nbsp;·&nbsp; [server](https://github.com/smitdonda/Disney-Hotstar-Server_1)
-React · Node.js · MongoDB
+**[Disney+ Hotstar clone](https://github.com/smitdonda/Disney-Hotstar-Client)** &nbsp;·&nbsp; [server](https://github.com/smitdonda/Disney-Hotstar-Server_1)<br>
+*React · Node.js · MongoDB*<br>
 Streaming UI with subscriptions, trailers, search and a personal watchlist.
-
----
-
-### GitHub
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=smitdonda&show_icons=true&hide_border=true&title_color=141F33&icon_color=0A66C2&text_color=1E2530&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitdonda&layout=compact&hide_border=true&title_color=141F33&text_color=1E2530" alt="Top languages" />
-</p>
 
 ---
 
